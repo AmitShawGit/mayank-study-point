@@ -1,0 +1,47 @@
+@media (max-width:360px) {
+    .hero-text {
+        top: 38%;
+        left: 20%;
+
+        h1 {
+            font-size: 20px
+        }
+
+        p {
+            font-size: 13px;
+        }
+    }
+
+    .heading {
+        font-size: 30px;
+    }
+
+    .services {
+        background-position: inherit;
+        background-repeat: inherit;
+
+        .services-content {
+            font-size: 15px;
+        }
+    }
+
+    .video-section {
+        background-position-x: -116px;
+    }
+
+    .video-section .video-parent {
+        top: 111px;
+        left: -12px;
+    }
+
+    .sub-heading {
+        margin: 10rem 0 0 0;
+        font-size: 21px;
+    }
+}
+
+@media (max-width:768px){
+    .backgroundVideo{
+        height: 600px;
+    }
+}

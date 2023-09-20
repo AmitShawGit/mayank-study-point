@@ -1,0 +1,8 @@
+@mixin btn-primary{
+    border: none;
+    border-radius: 18px;
+    color: $text-white;
+    background: $primary;
+    box-shadow: none !important;
+    cursor: pointer;
+}
