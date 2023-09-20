@@ -377,13 +377,14 @@ Services SECTION
   border: 3px solid;
 }
 
-.owl-wrapper,
-.owl-item {
-  width: 100% !important;
-}
-
 .freepdf {
   background: url(../images/freepdf.jpg);
+}
+
+.testimonial-bg {
+  background: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-taobao-cartoon-world-attractions-attractions-banner-poster-image_164756.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* footer */
